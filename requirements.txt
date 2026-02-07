@@ -1,6 +1,7 @@
 langchain
 langchain-groq
 faiss-cpu
+pandas
 tiktoken
 langchain-community
 langchain-openai
@@ -10,3 +11,8 @@ pypdf
 python-dotenv
 pandas
 langchain-core
+python-docx 
+docx2txt
+ipykernel
+unstructured[docx]
+openpyxl
