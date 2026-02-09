@@ -16,3 +16,8 @@ docx2txt
 ipykernel
 unstructured[docx]
 openpyxl
+matplotlib
+jq
+## embeddings
+langchain-huggingface
+sentence-transformers
