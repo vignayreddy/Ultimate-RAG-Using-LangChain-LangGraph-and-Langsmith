@@ -19,3 +19,4 @@ jq
 ## embeddings
 langchain-huggingface
 sentence-transformers
+langchain-experimental
