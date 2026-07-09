@@ -21,3 +21,11 @@ jq
 langchain-huggingface
 sentence-transformers
 langchain-experimental
+
+
+
+
+# langgraph
+wikipedia
+arxiv==1.4.8
+langgraph-cli[inmem]
